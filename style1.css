@@ -1,0 +1,28 @@
+header{
+    background-color: aqua;
+    height: 60px;
+}
+
+nav{
+    background-color: red;
+    height: 60px;
+}
+
+section{
+    background-color: yellow;
+    width: 50%;
+}
+
+article{
+    background-color: orange;
+    margin: 10px;
+}
+
+aside{
+    background-color: white;
+}
+
+footer{
+    background-color: turquoise;
+    height: 60px;
+}
